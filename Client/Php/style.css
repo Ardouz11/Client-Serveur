@@ -1,0 +1,113 @@
+@font-face{
+	font-family: OpenSansExtrabold;
+	src: url("OpenSans-ExtraBold.ttf");	
+
+}
+
+@font-face{
+	font-family: OpenSans;
+	src: url("OpenSans-Light.ttf");
+}
+
+.other{
+	background-color: black;
+}
+
+td{
+	text-align: center;
+}
+
+thead{
+	background-color: black;
+	color: white;
+	font-weight:bold;
+}
+
+.tables{
+	text-align: center;
+}
+
+.butt{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 30px;
+}
+
+.buttons{
+	valign: center;
+	text-align: center;
+}
+
+.alarm{
+	font-family: OpenSans;
+	color: red;
+	font-weight: bold;
+}
+
+.graph{
+	font-family: OpenSansExtrabold;
+	text-align: center;
+	font-size: 30px;
+}
+
+.real{
+	font-family: OpenSans;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.realtime{
+	font-family: OpenSans;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.tempValue{
+	background-color: rgba(0,206,229,0.2);
+	border-radius: 3px;
+}
+
+.titleServ{
+	font-family: OpenSansExtrabold;
+	font-size: 25px;
+}
+
+.titleDesc{
+	font-family: OpenSans;
+	font-size: 20px;
+	margin-top:-10px;
+}	
+
+.name{
+	font-family: OpenSansExtrabold;
+	font-size: 40px;
+	margin-top: 20px;
+}
+
+.devoir{
+	font-family: OpenSans;
+	font-size: 35px;
+	margin-top: -10px;
+	margin-bottom: -20px;
+}
+
+.avatar{
+	margin-top: 10px;
+}
+
+.container-fluid{
+	background-color: rgba(219,219,219,0.7);
+}
+
+.encadr{
+	border: solid black 2px;
+	border-radius: 5px;
+	margin-top: 5px;
+	text-align: center;
+}
+
+.service{
+	text-align: center;
+}
