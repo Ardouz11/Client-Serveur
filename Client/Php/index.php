@@ -1,6 +1,6 @@
 <html>
   <head>
-	<meta http-equiv="refresh" content="30" >
+	<meta http-equiv="refresh" content="180" >
 	<link rel="stylesheet" href="bootstrap.min.css">
 	<link rel="stylesheet" href="style.css">
 	<title>Temperature Control System</title>
